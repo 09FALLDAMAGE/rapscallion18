@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tbaEvents">
+        <item>Milford 2022</item>
+        <item>Troy 2022</item>
+        <item>States 2022</item>
+        <item>Worlds 2022</item>
+        <item>IRI 2022</item>
+    </string-array>
+    <string-array name="tbaEventCodes">
+        <item>2022mimil</item>
+        <item>2022mitry</item>
+        <item>2022micmp1</item>
+        <item>2022roe</item>
+        <item>2022iri</item>
+    </string-array>
+    <string-array name="firebaseEvents">
+        <item>Milford 2022</item>
+        <item>Troy 2022</item>
+        <item>States 2022</item>
+        <item>Worlds 2022</item>
+        <item>IRI 2022</item>
+    </string-array>
+    <string-array name="firebaseEventCodes">
+        <item>2022mimil</item>
+        <item>2022mitry</item>
+        <item>2022states</item>
+        <item>2022worlds</item>
+        <item>2022iri</item>
+    </string-array>
+</resources>

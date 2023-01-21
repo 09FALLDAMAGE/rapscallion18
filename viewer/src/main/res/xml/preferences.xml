@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+            <EditTextPreference
+                android:key="pref_connectionString"
+                android:title="Firebase API Key"
+                android:summary="API Key"/>
+            <ListPreference
+                android:key="pref_tba_event"
+                android:title="TBA Event"
+                android:summary="%s"
+                android:entries="@array/tbaEvents"
+                android:entryValues="@array/tbaEventCodes"
+                android:defaultValue="0"/>
+            <ListPreference
+                android:key="pref_firebase_event"
+                android:title="Firebase Event"
+                android:summary="%s"
+                android:entries="@array/firebaseEvents"
+                android:entryValues="@array/firebaseEventCodes"
+                android:defaultValue="0"/>
+            <EditTextPreference
+                android:key="pref_schema"
+                android:title="Schema"/>
+            <EditTextPreference
+                android:key="pref_tbaKeyOverride"
+                android:title="TBA Event Key Override"
+                android:summary="Bypasses event selector"/>
+            <EditTextPreference
+                android:key="pref_firebaseKeyOverride"
+                android:title="Firebase Event Key Override"
+                android:summary="Bypasses event selector"/>
+            <SwitchPreference
+                android:key="pref_cache_clear"
+                android:title="Clear Cache"
+                android:summary="Toggle to clear cache"/>
+
+</PreferenceScreen>

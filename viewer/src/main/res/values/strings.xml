@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scouting Viewer</string>
+    <string name="show_teams_button_label">Show Teams</string>
+    <string name="contextText">Comp: Unknown</string>
+</resources>
