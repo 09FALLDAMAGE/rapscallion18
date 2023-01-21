@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HotScouter-master.iml" filepath="$PROJECT_DIR$/.idea/modules/HotScouter-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/HotScouter-master.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/HotScouter-master.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/master/HotScouter-master.master.iml" filepath="$PROJECT_DIR$/.idea/modules/master/HotScouter-master.master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scouter/HotScouter-master.scouter.iml" filepath="$PROJECT_DIR$/.idea/modules/scouter/HotScouter-master.scouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/viewer/HotScouter-master.viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/viewer/HotScouter-master.viewer.iml" />
+    </modules>
+  </component>
+</project>
